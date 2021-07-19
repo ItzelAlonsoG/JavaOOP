@@ -58,16 +58,14 @@ The repository contains a Medical appointment with OOP Java in this project ther
 
 # Dependencies
 
-- Download JDK Java 8 and JDK Java 11.
+- Download JDK Java 11.
 - Download Intellij IDE.
                                                                                             
 # Instruction
 To use this repository you need to have the dependencies installed, next clone or download in a .zip the projects.
 - Open with your Terminal verified what is the java version you have with
          java -version 
-     <div><img src ="https://i.insider.com/5e2f46d55bc79c3214122a92?width=1000&format=jpeg&auto=webp" width ="800px">  </div>                                                                                                                                                                
-    In preferense use de JDK Java 11 because it can be used in all the proyects of this repository.
-                                                                                                                    
+     <div><img src ="https://i.insider.com/5e2f46d55bc79c3214122a92?width=1000&format=jpeg&auto=webp" width ="800px">  </div>                                                                                                                                                                                                                                                                                  
  - Open Intellij IDE clic on Open project.
    <div><img src ="https://vaadin.com/docs/latest/static/44aa85798d7510627ce48c5b38738da1/03979/welcome-screen.png" width ="800px">  </div>    
  
