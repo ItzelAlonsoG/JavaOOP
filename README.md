@@ -69,7 +69,7 @@ To use this repository you need to have the dependencies installed, next clone o
  - Open Intellij IDE clic on Open project.
    <div><img src ="https://vaadin.com/docs/latest/static/44aa85798d7510627ce48c5b38738da1/03979/welcome-screen.png" width ="800px">  </div>    
  
-  - Select one of the three project to Start this travel in JAVA!                                                                                                      
+  - Select the project to Start this travel in JAVA!                                                                                                      
 
 # Information
 - [Download JDK](https://openjdk.java.net/)
