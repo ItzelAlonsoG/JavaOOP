@@ -102,11 +102,12 @@ public class Main {
 
        user1.showDataUser();
 
-       IScheduable iScheduable = new IScheduable() {
+      /* IScheduable iScheduable = new IScheduable() {
            @Override
            public void schedule(Date date, String time) {
 
            }
+           */
        };
 
 
