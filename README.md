@@ -4,6 +4,7 @@
 - Repository
 - Dependencies
 - Instructions
+- Run code
 - Information
 
 # Introduction
