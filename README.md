@@ -70,6 +70,18 @@ To use this repository you need to have the dependencies installed, next clone o
    <div><img src ="https://vaadin.com/docs/latest/static/44aa85798d7510627ce48c5b38738da1/03979/welcome-screen.png" width ="800px">  </div>    
  
   - Select the project to Start this travel in JAVA!                                                                                                      
+# Run code
+
+- After install the dependencies and follow the instrunctions, you will open the project with Intellij.
+- Select the **Main.js** file, right click on the mouse and select **Run Main.main()** wait a couple of minutes.
+
+   <div><img src ="https://github.com/ItzelAlonsoG/JavaOOP/blob/main/JavaOOP1.png" width ="100%">  </div>    
+
+- In the console you will see this information.
+
+   <div><img src ="https://github.com/ItzelAlonsoG/JavaOOP/blob/main/JavaOOP2.PNG" width ="100%">  </div>    
+
+
 
 # Information
 - [Download JDK](https://openjdk.java.net/)
