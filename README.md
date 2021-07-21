@@ -59,8 +59,8 @@ The repository contains a Medical appointment with OOP Java in this project ther
 
 # Dependencies
 
-- Download JDK Java 11.
-- Download Intellij IDE.
+- [Download JDK](https://openjdk.java.net/)
+- [Download Intellij IDE](https://www.jetbrains.com/es-es/idea/download/#section=windows)
                                                                                             
 # Instruction
 To use this repository you need to have the dependencies installed, next clone or download in a .zip the projects.
@@ -85,7 +85,5 @@ To use this repository you need to have the dependencies installed, next clone o
 
 
 # Information
-- [Download JDK](https://openjdk.java.net/)
-- [Download Intellij IDE](https://www.jetbrains.com/es-es/idea/download/#section=windows)
 - [Platzi Course Java OOP](https://platzi.com/clases/java-oop/)
 
